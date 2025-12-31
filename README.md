@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/24389884/README.2.md)
+[The Framework of the Limitations of Infinity](https://zeiendos.github.io/limitations-of-infinity/)
 # The Framework of the Limitations of Infinity: A Treatise on Infiniology
 
 > A comprehensive philosophical framework exploring the fundamental structure of reality through the lens of vibration, duality, and consciousness

@@ -84,7 +84,7 @@ The Framework of the Limitations of Infinity and Infiniology are protected intel
 ## Commercial Licensing
 
 For commercial use, corporate licensing, or custom arrangements:  
-**Contact:** zeiendosfinity@gmail.com
+**Contact:** zeiendosifinity@gmail.com
 
 Commercial licenses may include:
 - Corporate training and workshops
@@ -136,5 +136,6 @@ A: Commercial publishing requires a separate license. Contact for terms.
 
 **Q: Can I create a YouTube video about this?**  
 A: Yes, for educational/non-commercial content with proper attribution. Monetized content requires licensing.
+
 
 

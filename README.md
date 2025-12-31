@@ -219,10 +219,13 @@ This framework is open to contributions from researchers, writers, philosophers,
 
 ## 📄 Copyright & License
 
-### Copyright Notice
-**© 2025 Zeiendos. All Rights Reserved.**
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This work is protected by copyright law. The Framework of the Limitations of Infinity and Infiniology are original philosophical frameworks developed by Zeiendos.
+**Copyright © 2025 Zeiendos. All Rights Reserved.**
+
+This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. See [USAGE-GUIDE.md](USAGE-GUIDE.md) for details.
+
+**Contact:** [zeiendosinfinity@gmail.com](mailto:zeiendosinfinity@gmail.com)
 
 ### Terms of Use
 - **Educational Use**: Free for academic and educational purposes

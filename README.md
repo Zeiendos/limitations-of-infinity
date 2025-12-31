@@ -235,11 +235,11 @@ When using or referencing this framework, please include:
 - Title: "The Framework of the Limitations of Infinity: A Treatise on Infiniology"
 - Author: Zeiendos
 - Year: 2025
-- URL: [repository-url]
+- URL: [[repository-url](https://github.com/Zeiendos/limitations-of-infinity)]
 
 ### Contact
 For licensing, collaboration, or questions about the framework:
-- Email: zeiendos@example.com
+- Email: zeiendosinfinity@gmail.com
 - GitHub: @zeiendos
 
 ---

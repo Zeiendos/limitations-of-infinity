@@ -1,3 +1,4 @@
+[README (2).md](https://github.com/user-attachments/files/24389884/README.2.md)
 # The Framework of the Limitations of Infinity: A Treatise on Infiniology
 
 > A comprehensive philosophical framework exploring the fundamental structure of reality through the lens of vibration, duality, and consciousness
@@ -276,7 +277,7 @@ The framework incorporates research and concepts from:
 
 ### Ancient Wisdom Traditions
 - Vedic mantras and sacred sound practices
-- Greek philosophy and the Music of the Spheres
+- Greek Philosophy and the Music of the Spheres
 - Tibetan singing bowl techniques
 - Taoist principles of balance and duality
 
@@ -334,7 +335,7 @@ Special recognition to:
 - [Wiki](wiki/)
 
 ### Contact
-- Framework Questions: zeiendos@example.com
+- Framework Questions: zeiendosinfinity@gmail.com
 - Technical Issues: GitHub Issues
 - Research Collaboration: Academic partnerships welcome
 

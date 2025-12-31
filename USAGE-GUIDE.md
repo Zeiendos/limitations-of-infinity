@@ -98,7 +98,6 @@ Commercial licenses may include:
 
 ### ✅ Correct Attribution
 
-```text
 This world-building system is based on The Framework of the Limitations of Infinity 
 by Zeiendos, licensed under CC BY-NC-SA 4.0. The original framework can be found 
 at [repository-url](https://github.com/Zeiendos/limitations-of-infinity/)
@@ -107,14 +106,12 @@ at [repository-url](https://github.com/Zeiendos/limitations-of-infinity/)
 
 ### ❌ Incorrect Attribution
 
-'''text
 My original framework called "The Infinity System"...
 
 ---
 
 ### ✅ Derivative Work Attribution
 
-'''text
 The Vibrational Reality Framework - An expansion of Zeiendos's 
 "Framework of the Limitations of Infinity" (CC BY-NC-SA 4.0)
 
@@ -139,4 +136,5 @@ A: Commercial publishing requires a separate license. Contact for terms.
 
 **Q: Can I create a YouTube video about this?**  
 A: Yes, for educational/non-commercial content with proper attribution. Monetized content requires licensing.
+
 

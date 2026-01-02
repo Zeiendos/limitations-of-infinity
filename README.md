@@ -1,4 +1,6 @@
 [The Framework of the Limitations of Infinity](https://zeiendos.github.io/limitations-of-infinity/)
+
+[World-building with Infiniology](https://zeiendos.github.io/worldbuilding-with-infiniology/)
 # The Framework of the Limitations of Infinity: A Treatise on Infiniology
 
 > A comprehensive philosophical framework exploring the fundamental structure of reality through the lens of vibration, duality, and consciousness
